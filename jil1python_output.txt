@@ -1,0 +1,14 @@
+7
+1
+12
+0.75
+180
+3
+5760
+6.25
+3842.057142857143
+3000
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
